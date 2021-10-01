@@ -2,12 +2,8 @@ public class HelloWorld
 {
 	public static void main(String[] args) 
 	{
-		int NIM = 6706213056;
-		string NAMA = "CHIKAL FACHDIANA";
-		float IPK = 3.50;
-		
-		System.out.println(NIM);
-		System.out.println(NAMA);
-		System.out.println(IPK);
+		System.out.println("Nama: Chikal Fachdiana!");
+		System.out.println("NIM: 6706213056");
+		System.out.println("Kelas: D3RPLA-45-02");
 	}
 }
